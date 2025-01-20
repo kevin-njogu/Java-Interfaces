@@ -18,6 +18,7 @@
 *   4. One interface can extend another interface
 *   5. Default methods are also allowed in Interfaces - default methods are important to update existing interfaces
 *   6. A class can implement multiple interfaces
+*   7. Interfaces can have private methods
  */
 public class Main {
     public static void main(String[] args) {
